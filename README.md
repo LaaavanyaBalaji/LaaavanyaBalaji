@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm an aspiring Fullstack Developer with a passion
 - Medium-Hard level Problems on Leetcode in DSA
 - 
 ## 📫 How to Reach Me
-- **Email**: [your.email@example.com](laaavanyabalaji03@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/lavanya-balaji-a65180312/)
+- **Email**: [laaavanyabalaji03@gmail.com](laaavanyabalaji03@gmail.com)
+- **LinkedIn**: [linkedin.com/in/LavanyaBalaji](https://www.linkedin.com/in/lavanya-balaji-a65180312/)
 
 ## 🚀 Goals
 - Contribute to open-source projects and collaborate with other developers.
