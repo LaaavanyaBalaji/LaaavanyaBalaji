@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an aspiring Fullstack Developer with a passion
   <a href="https://www.linkedin.com/in/lavanya-balaji-a65180312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanya-balaji-a65180312/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/LaaavanyaBalaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LaaavanyaBalaji" height="30" width="40" /></a>
 </p>
-    <a href="https://drive.google.com/file/d/1eBaNvJKJZhEDEL9rQNAqQRAV509K_VkG/view"><img src="https://img.shields.io/badge/Resume-blue?logo=resume&logoColor=white&style=for-the-badge"></img></a>
+    <a href="https://drive.google.com/file/d/1WctDjg0duOW5NVXsew2wkqECA0SzojW9/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-blue?logo=resume&logoColor=white&style=for-the-badge"></img></a>
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=Aruneshkumar07&style=flat-square&color=blue" alt=""/>
@@ -34,21 +34,6 @@ Welcome to my GitHub profile! I'm an aspiring Fullstack Developer with a passion
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaaavanyaBalaji"></img>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aruneshkumar07&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a> -->
 </div>
-
-### Frontend
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks/Libraries**: React
-- **Styling**: Bootstrap,  CSS
-- **Tools**:  Babel, NPM
-
-### Backend
-- **Languages**:  Java
-- **Databases**: MongoDB, MySQL
-
-### DevOps
-- **Version Control**: Git, GitHub
-
-
 ## 🌱 Currently Learning
 - Advanced React patterns and hooks
 - Medium-Hard level Problems on Leetcode in DSA
